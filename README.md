@@ -16,6 +16,10 @@ https://docs.microsoft.com/en-us/azure/open-datasets/dataset-covid-tracking?tabs
 Thesis:
 How did states handle COVID in comparison with each other?
 
+Null:
+- No states did better than the other.
+- Blue states do better than red states.
+
 Role division
 - joy: predict positive to death, predict positive to hospitalization rates, predict positive to recovered, violin plots for each month?
 - stephanie: machine learning, predict 51st state, clustering around nearby states
