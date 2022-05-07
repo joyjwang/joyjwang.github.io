@@ -1,7 +1,7 @@
 # joyjwang.github.io
 CMSC320 Final Project for Team LJS
 
-Website: https://joyjwang.github.io./
+Website: https://joyjwang.github.io/
 
 Run Jupyter Notebook: `docker run -it -v $(pwd):/home/jovyan/notebooks --rm -p 8888:8888 jmct/cmsc320`
 
